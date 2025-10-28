@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nayak.sahiljsr@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/6668330rct5v](https://flowcv.com/resume/6668330rct5v)
+- 📄 Know about my experiences [[https://flowcv.com/resume/6668330rct5v](https://flowcv.com/resume/8hkbrr0sq3l3)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
