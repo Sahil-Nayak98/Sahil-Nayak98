@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-nayak98&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-nayak98" /> </p>
 
-- 🔭 I’m currently working on **Text-Summarization using Lang-Chain**
+- 🔭 I’m currently working on **MLOPS and deep learning**
 
 - 🌱 I’m currently learning **GEN-AI,LLMS**
 
